@@ -1,0 +1,19 @@
+.body{
+  margin: 0;
+}
+.navbar{
+  margin: 0;
+  background-color: #000000;
+  color: #8E05C2;
+}
+.navbar-brand{
+  font-size: 50px;
+  font-family: 'Monoton', cursive;
+}
+.nav-link{
+  color:#E900FF;
+}
+.nav-item{
+  list-style: none;
+  color:#E900FF;
+}
